@@ -1,3 +1,3 @@
 "hello world"
 
-end
+end-of-input
